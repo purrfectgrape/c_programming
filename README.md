@@ -1,2 +1,2 @@
 # c_programming
-Directory of examples and exercises from the C Programming Language book.
+Directory of simple examples and exercises from the C Programming Language book, for self practice.
